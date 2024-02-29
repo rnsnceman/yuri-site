@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yuri-site/static/css/main.55db0ea3.css",
+    "main.js": "/yuri-site/static/js/main.6c5f02d7.js",
+    "index.html": "/yuri-site/index.html",
+    "main.55db0ea3.css.map": "/yuri-site/static/css/main.55db0ea3.css.map",
+    "main.6c5f02d7.js.map": "/yuri-site/static/js/main.6c5f02d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55db0ea3.css",
+    "static/js/main.6c5f02d7.js"
+  ]
+}
