@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rnsnceman.github.io/yuri-site/static/css/main.8c84d600.css",
-    "main.js": "/rnsnceman.github.io/yuri-site/static/js/main.5c4801b1.js",
-    "index.html": "/rnsnceman.github.io/yuri-site/index.html",
-    "main.8c84d600.css.map": "/rnsnceman.github.io/yuri-site/static/css/main.8c84d600.css.map",
-    "main.5c4801b1.js.map": "/rnsnceman.github.io/yuri-site/static/js/main.5c4801b1.js.map"
+    "main.css": "/yuri-site/static/css/main.8c84d600.css",
+    "main.js": "/yuri-site/static/js/main.5c4801b1.js",
+    "index.html": "/yuri-site/index.html",
+    "main.8c84d600.css.map": "/yuri-site/static/css/main.8c84d600.css.map",
+    "main.5c4801b1.js.map": "/yuri-site/static/js/main.5c4801b1.js.map"
   },
   "entrypoints": [
     "static/css/main.8c84d600.css",
