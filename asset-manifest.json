@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yuri-site/static/css/main.0588f0bd.css",
-    "main.js": "/yuri-site/static/js/main.c017741f.js",
+    "main.js": "/yuri-site/static/js/main.26cdeda9.js",
     "index.html": "/yuri-site/index.html",
     "main.0588f0bd.css.map": "/yuri-site/static/css/main.0588f0bd.css.map",
-    "main.c017741f.js.map": "/yuri-site/static/js/main.c017741f.js.map"
+    "main.26cdeda9.js.map": "/yuri-site/static/js/main.26cdeda9.js.map"
   },
   "entrypoints": [
     "static/css/main.0588f0bd.css",
-    "static/js/main.c017741f.js"
+    "static/js/main.26cdeda9.js"
   ]
 }
